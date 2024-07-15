@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'BlakeCot';
-    src: url('TPage Assets/BlakecotBrush-3lZ06.otf') format('truetype');
+    src: url("https://github.com/nedfa1/Tribute-Page/blob/main/Assets/BlakecotBrush-3lZ06.otf") format('truetype');
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 }
 /* Header */
 #img-div {
-    background: url('TPage Assets/Zankyou-no-Terror.webp');
+    background: url("https://github.com/nedfa1/Tribute-Page/blob/main/Assets/nine.webp");
     background-size: cover;
     display: flex;
     align-items: center;
