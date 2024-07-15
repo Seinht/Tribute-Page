@@ -8,7 +8,7 @@ body {
 }
 /* Header */
 #img-div {
-    background: url("https://github.com/nedfa1/Tribute-Page/blob/main/Assets/nine.webp");
+    background: url("https://raw.githubusercontent.com/nedfa1/Tribute-Page/main/Assets/nine.webp");
     background-size: cover;
     display: flex;
     align-items: center;
